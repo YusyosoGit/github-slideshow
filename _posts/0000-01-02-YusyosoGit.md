@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "２枚目のスライドにようこそ！"
+title: "Welcome to my second slide!"
 ---
-何かを書く。
-戻るには戻るボタンを使いましょう！
+Japanese title looks not good.<br>
+戻るには<戻る>ボタンを使いましょう！
